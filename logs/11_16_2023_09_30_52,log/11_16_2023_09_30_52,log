@@ -1,0 +1,17 @@
+[2023-11-16 09:30:52,780] 187 werkzeug - WARNING -  * Debugger is active!
+[2023-11-16 09:30:52,789] 187 werkzeug - INFO -  * Debugger PIN: 115-946-551
+[2023-11-16 09:30:58,914] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:30:58] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[2023-11-16 09:30:58,941] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:30:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-11-16 09:30:58,943] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:30:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-11-16 09:30:58,995] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:30:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-11-16 09:30:59,185] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:30:59] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-16 09:32:10,395] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:32:10] "GET /predictdata HTTP/1.1" 200 -
+[2023-11-16 09:32:35,901] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:32:35] "POST /predictdata HTTP/1.1" 200 -
+[2023-11-16 09:34:42,723] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:34:42] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2023-11-16 09:34:42,754] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:34:42] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-16 09:34:42,756] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:34:42] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-16 09:34:42,800] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:34:42] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-16 09:34:42,989] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:34:42] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-16 09:35:13,446] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:35:13] "POST /predictdata HTTP/1.1" 200 -
+[2023-11-16 09:35:24,398] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:35:24] "POST /predictdata HTTP/1.1" 200 -
+[2023-11-16 09:35:28,216] 187 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2023 09:35:28] "POST /predictdata HTTP/1.1" 200 -

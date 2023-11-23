@@ -1,0 +1,28 @@
+[2023-07-08 10:26:16,447] 187 werkzeug - WARNING -  * Debugger is active!
+[2023-07-08 10:26:16,463] 187 werkzeug - INFO -  * Debugger PIN: 115-946-551
+[2023-07-08 10:26:29,078] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:26:29] "GET / HTTP/1.1" 200 -
+[2023-07-08 10:26:29,601] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:26:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-08 10:26:41,913] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:26:41] "GET /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:27:07,960] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:27:07] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:29:31,354] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:29:31] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:29:55,752] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:29:55] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:30:45,536] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:30:45] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:31:24,044] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:31:24] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:31:44,383] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:31:44] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:31:52,142] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:31:52] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:31:55,112] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:31:55] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:32:08,595] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:32:08] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:32:20,717] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:32:20] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:32:29,348] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:32:29] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:32:37,423] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:32:37] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:33:01,444] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:33:01] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:33:33,169] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:33:33] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:33:46,354] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:33:46] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:33:59,594] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:33:59] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:34:08,383] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:34:08] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:38:43,505] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:38:43] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:38:52,102] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:38:52] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:39:26,986] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:39:26] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:42:11,257] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:42:11] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:42:36,401] 187 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2023 10:42:36] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-08 10:42:59,493] 187 werkzeug - INFO -  * Detected change in '/Users/shaikmohammadasrarahammad/Downloads/Machine_learning_project/app.py', reloading
