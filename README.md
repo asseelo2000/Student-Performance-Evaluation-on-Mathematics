@@ -1,4 +1,4 @@
-# Student Performance Analysis System
+# Student Performance Evaluation on Mathematics 
 **Website link:** https://student-performance-analysis.streamlit.app/
 <br>
 The Student Performance Analysis System is a machine learning-based solution that analyzes student performance using various features. It leverages a CI/CD pipeline and is yet to deployed on Streamlit for automated development, testing, and deployment.
@@ -39,10 +39,5 @@ To get started with the Student Performance Analysis System, follow these steps:
 
 4. Run the notebooks sequentially to execute the code and reproduce the results.
 
-## Contributing
-Contributions to the Student Performance Analysis System are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## Acknowledgements
-* This project utilizes Streamlit for model deployment and CI/CD pipeline automation.
-* The dataset used for student performance prediction is sourced from Kaggle.
-* Parts of the code and project structure are inspired by Krish Naik Sir.
+
