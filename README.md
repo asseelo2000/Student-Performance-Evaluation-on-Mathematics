@@ -1,5 +1,5 @@
 # Student Performance Evaluation on Mathematics 
-**Website link:** https://student-performance-analysis.streamlit.app/
+**Website link:** https://asseelo2000.github.io/Student-Performance-Evaluation-on-Mathematics/
 <br>
 The Student Performance Analysis System is a machine learning-based solution that analyzes student performance using various features. It leverages a CI/CD pipeline and is yet to deployed on Streamlit for automated development, testing, and deployment.
 
