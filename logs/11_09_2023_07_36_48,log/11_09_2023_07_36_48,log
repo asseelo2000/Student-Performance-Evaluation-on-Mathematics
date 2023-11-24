@@ -1,5 +1,0 @@
-[2023-11-09 07:36:48,925] 187 werkzeug - WARNING -  * Debugger is active!
-[2023-11-09 07:36:48,933] 187 werkzeug - INFO -  * Debugger PIN: 115-946-551
-[2023-11-09 07:37:03,870] 187 werkzeug - INFO - 127.0.0.1 - - [09/Nov/2023 07:37:03] "GET /predictdata HTTP/1.1" 200 -
-[2023-11-09 07:37:04,163] 187 werkzeug - INFO - 127.0.0.1 - - [09/Nov/2023 07:37:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-[2023-11-09 07:37:24,638] 187 werkzeug - INFO - 127.0.0.1 - - [09/Nov/2023 07:37:24] "POST /predictdata HTTP/1.1" 200 -
