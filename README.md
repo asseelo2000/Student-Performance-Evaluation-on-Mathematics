@@ -39,5 +39,7 @@ To get started with the Student Performance Analysis System, follow these steps:
 
 4. Run the notebooks sequentially to execute the code and reproduce the results.
 
+## Acknwoledgments
+This project was developed by @Asrar-Ahammad
 
 
